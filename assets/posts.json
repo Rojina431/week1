@@ -1,0 +1,54 @@
+[
+    {
+    "userId":1,
+    "name":"Rojina Baral",
+    "postType":"Updated her cover photo",
+    "caption":"Lorem ipsum dolor sit amet Cras sed accumsan ipsum,",
+    "post":"https://wl-brightside.cf.tsp.li/resize/728x/jpg/3fb/52b/a57c255ccbb83830aace95edde.jpg",
+  "react":"120",
+  "Comments":"56",
+  "share":"32"
+  },
+  {
+    "userId":2,
+    "name":"Samikshya",
+    "postType":"Updated her profile picture",
+    "caption":"Lorem ipsum dolor sit amet",
+    "post":"https://image.shutterstock.com/image-photo/beauty-woman-face-portrait-beautiful-260nw-324067166.jpg",
+  "react":"120",
+  "Comments":"56",
+  "share":"50"
+  },
+  {
+    "userId":3,
+    "name":"Susan Sah",
+    "gender":"his",
+    "postType":"Add new photo",
+    "caption":"Lorem ipsum dolor sit amet Cras sed accumsan ipsum,",
+    "post":"https://i.pinimg.com/originals/c0/83/53/c08353f87a3a3c7c7e9d155925c9d33e.jpg",
+  "react":"900",
+  "Comments":"136",
+  "share":"3"
+  },
+  { 
+    "userId":4,
+    "name":"Garima Gaire",
+    "gender":"her",
+    "postType":"Updated her cover photo",
+    "caption":"Lorem ipsum dolor sit amet , consectetur adipiscing elit",
+    "post":"https://images.pexels.com/photos/1458332/pexels-photo-1458332.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "react":"147",
+  "Comments":"100",
+  "share":"3"
+  },
+  {
+    "userId":5,
+    "name":"Jaya Thapa",
+    "postType":"Updated his profile picture",
+    "caption":"Lorem ipsum dolor sit amet Cras sed accumsan ipsum,",
+    "post":"https://i.pinimg.com/originals/c0/83/53/c08353f87a3a3c7c7e9d155925c9d33e.jpg",
+  "react":"320",
+  "Comments":"320",
+  "share":"12"
+  }
+  ]
